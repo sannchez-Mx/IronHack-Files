@@ -5,7 +5,7 @@
 
   #applePie {
     height: 700px;
-    background-image: url(starter-code/apple-pie-starter-code/images/apple-pie.jpg);
+    background-image: url(images/apple-pie.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: content-box;
@@ -65,7 +65,7 @@ li{
 }
 #frenchOnion {
     height: 700px;
-    background-image: url(starter-code/french-onion-soup-starter-code/images/soup.jpg);
+    background-image: url(images/soup.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: content-box;
